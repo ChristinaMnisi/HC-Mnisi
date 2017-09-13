@@ -1,2 +1,0 @@
-# HC-Mnisi
-C# Developer
